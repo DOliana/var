@@ -1,0 +1,2 @@
+# custom block list for domains not covered in my other lists
+127.0.0.1 a.adforecast.com
