@@ -1,3 +1,25 @@
 # custom block list for domains not covered in my other lists
 a.adforecast.com
 applog.uc.cn
+
+# Instagram website and API
+instagram.com
+www.instagram.com
+i.instagram.com
+api.instagram.com
+graph.instagram.com
+i-fallback.instagram.com
+b.i.instagram.com
+graph-fallback.instagram.com
+gateway.instagram.com
+edge-chat.instagram.com
+l.instagram.com
+
+# Instagram media
+cdninstagram.com
+static.cdninstagram.com
+scontent.cdninstagram.com
+
+# Short links
+instagr.am
+ig.me
