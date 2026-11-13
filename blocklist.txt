@@ -1,3 +1,7 @@
 # custom block list for domains not covered in my other lists
 0.0.0.0 a.adforecast.com
 0.0.0.0 applog.uc.cn
+0.0.0.0 instagram.com
+0.0.0.0 cdninstagram.com
+0.0.0.0 instagr.am
+0.0.0.0 ig.me
