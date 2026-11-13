@@ -1,0 +1,4 @@
+(?i)(^|\.)instagram\.com$ # Instagram
+(?i)(^|\.)cdninstagram\.com$ # InstagramCDN
+(?i)(^|\.)instagr\.am$ # InstagramShort
+(?i)(^|\.)ig\.me$ # InstagramDM
